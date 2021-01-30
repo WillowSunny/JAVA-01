@@ -32,6 +32,7 @@ public class OkhttpUtil {
                 }
             }
         });
+        thread.start();
         String response = doGetUrl("http://localhost:8808/test");
         System.out.printf(response);
         Thread.sleep(100000);
