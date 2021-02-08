@@ -1,4 +1,4 @@
-package com.willow.nio;
+package io.github.willow.gateway.util;
 
 import okhttp3.OkHttpClient;
 import okhttp3.Request;
@@ -21,20 +21,7 @@ public class OkhttpUtil {
     }
 
     public static void main(String[] args) throws IOException, InterruptedException {
-//        Thread thread = new Thread(new Runnable() {
-//            @Override
-//            public void run() {
-//                try {
-//                    String s = OkhttpUtil.doGetUrl("http://localhost:8801/test");
-//                    System.out.println(s);
-//                } catch (IOException e) {
-//                    e.printStackTrace();
-//                }
-//            }
-//        });
-//        thread.start();
-        String response = doGetUrl("http://localhost:8888/test");
-        System.out.printf(response);
-        Thread.sleep(100000);
+        String response = doGetUrl("http://localhost:8889/test");
+        System.out.println(response);
     }
 }
