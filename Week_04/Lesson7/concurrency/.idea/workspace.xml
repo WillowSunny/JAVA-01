@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8b650a05-b2a0-4c6f-bb4b-8626a7e09553" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concurrency.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/concurrency/com/willow/concurrency/DaemonDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/concurrency/com/willow/concurrency/future/FutureTaskTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/concurrency/com/willow/concurrency/future/SimpleRunnable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/concurrency/com/willow/concurrency/join/JoinDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/concurrency/com/willow/concurrency/join/JoinTestThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/concurrency/com/willow/concurrency/result/ThreadResultGetDemo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/concurrency/com/willow/concurrency/result/ThreadResultGetDemo2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/concurrency/com/willow/concurrency/result/ThreadResultGetDemo3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/concurrency/com/willow/concurrency/result/ThreadResultGetDemo4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/concurrency/com/willow/concurrency/result/ThreadResultGetDemo5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/concurrency/com/willow/concurrency/result/ThreadResultGetDemo6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/concurrency/com/willow/concurrency/result/ThreadResultGetDemo7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/concurrency/com/willow/concurrency/start/ThreadStartDemo$ThreadInherit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/concurrency/com/willow/concurrency/start/ThreadStartDemo$ThreadRunable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/concurrency/com/willow/concurrency/start/ThreadStartDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/willow/concurrency/DaemonDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/willow/concurrency/future/FutureTaskTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/willow/concurrency/join/JoinDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/willow/concurrency/result/ThreadResultGetDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/willow/concurrency/result/ThreadResultGetDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/willow/concurrency/result/ThreadResultGetDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/willow/concurrency/result/ThreadResultGetDemo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/willow/concurrency/result/ThreadResultGetDemo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/willow/concurrency/result/ThreadResultGetDemo6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/willow/concurrency/start/ThreadStartDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../多线程和并发相关知识.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../并发编程.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../线程生命周期状态.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../线程简易状态图.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="F:\StudyWork\JAVA-01\Week_04\concurrency\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\repository" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.5.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1oCVJ2mfJY8b1WEKZbJQUBwfNdu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.willow.concurrency.result" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ThreadResultGetDemo7">
+    <configuration name="DaemonDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.willow.concurrency.DaemonDemo" />
+      <module name="concurrency" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.willow.concurrency.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FutureTaskTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.willow.concurrency.future.FutureTaskTest" />
+      <module name="concurrency" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.willow.concurrency.future.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadResultGetDemo5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.willow.concurrency.result.ThreadResultGetDemo5" />
+      <module name="concurrency" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.willow.concurrency.result.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadResultGetDemo6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.willow.concurrency.result.ThreadResultGetDemo6" />
+      <module name="concurrency" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.willow.concurrency.result.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadResultGetDemo7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.willow.concurrency.result.ThreadResultGetDemo7" />
+      <module name="concurrency" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.willow.concurrency.result.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ThreadResultGetDemo7" />
+        <item itemvalue="Application.DaemonDemo" />
+        <item itemvalue="Application.ThreadResultGetDemo6" />
+        <item itemvalue="Application.FutureTaskTest" />
+        <item itemvalue="Application.ThreadResultGetDemo5" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b650a05-b2a0-4c6f-bb4b-8626a7e09553" name="Default Changelist" comment="" />
+      <created>1612790483211</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612790483211</updated>
+      <workItem from="1612790488527" duration="8925000" />
+      <workItem from="1613118477256" duration="620000" />
+      <workItem from="1613183691509" duration="37287000" />
+      <workItem from="1613445218172" duration="9689000" />
+    </task>
+    <task id="LOCAL-00001" summary="第四周作业提交">
+      <created>1613648828264</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1613648828264</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../.." />
+    </ignored-roots>
+    <MESSAGE value="第四周作业提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第四周作业提交" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2306" y="218" key="#ThreadResultGetDemo5" timestamp="1613396483445">
+      <screen x="1920" y="179" width="1366" height="728" />
+    </state>
+    <state x="2306" y="218" key="#ThreadResultGetDemo5/0.0.1920.1040/1920.179.1366.728@1920.179.1366.728" timestamp="1613396483445" />
+    <state x="2408" y="250" key="#com.intellij.ide.util.MemberChooser" timestamp="1613221043072">
+      <screen x="1920" y="179" width="1366" height="728" />
+    </state>
+    <state x="2408" y="250" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.179.1366.728@1920.179.1366.728" timestamp="1613221043072" />
+    <state x="2358" y="250" key="#xdebugger.evaluate" timestamp="1613396915625">
+      <screen x="1920" y="179" width="1366" height="728" />
+    </state>
+    <state x="2358" y="250" key="#xdebugger.evaluate/0.0.1920.1040/1920.179.1366.728@1920.179.1366.728" timestamp="1613396915625" />
+    <state x="2167" y="179" key="CommitChangelistDialog2" timestamp="1613648956441">
+      <screen x="1920" y="179" width="1366" height="728" />
+    </state>
+    <state x="2167" y="179" key="CommitChangelistDialog2/0.0.1920.1040/1920.179.1366.728@1920.179.1366.728" timestamp="1613648956441" />
+    <state x="2306" y="393" key="FileChooserDialogImpl" timestamp="1613445361684">
+      <screen x="1920" y="179" width="1366" height="728" />
+    </state>
+    <state x="2306" y="393" key="FileChooserDialogImpl/0.0.1920.1040/1920.179.1366.728@1920.179.1366.728" timestamp="1613445361684" />
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1613621111934">
+      <screen x="1920" y="179" width="1366" height="728" />
+    </state>
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.179.1366.728@1920.179.1366.728" timestamp="1613621111934" />
+    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1613621111934">
+      <screen x="1920" y="179" width="1366" height="728" />
+    </state>
+    <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1920.1040/1920.179.1366.728@1920.179.1366.728" timestamp="1613621111934" />
+    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1613621111934">
+      <screen x="1920" y="179" width="1366" height="728" />
+    </state>
+    <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1920.1040/1920.179.1366.728@1920.179.1366.728" timestamp="1613621111934" />
+    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1613621111934">
+      <screen x="1920" y="179" width="1366" height="728" />
+    </state>
+    <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1920.1040/1920.179.1366.728@1920.179.1366.728" timestamp="1613621111934" />
+    <state width="1322" height="192" key="GridCell.Tab.1.bottom" timestamp="1613547139991">
+      <screen x="1920" y="179" width="1366" height="728" />
+    </state>
+    <state width="1322" height="192" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.179.1366.728@1920.179.1366.728" timestamp="1613547139991" />
+    <state width="1322" height="192" key="GridCell.Tab.1.center" timestamp="1613547139990">
+      <screen x="1920" y="179" width="1366" height="728" />
+    </state>
+    <state width="1322" height="192" key="GridCell.Tab.1.center/0.0.1920.1040/1920.179.1366.728@1920.179.1366.728" timestamp="1613547139990" />
+    <state width="1322" height="192" key="GridCell.Tab.1.left" timestamp="1613547139990">
+      <screen x="1920" y="179" width="1366" height="728" />
+    </state>
+    <state width="1322" height="192" key="GridCell.Tab.1.left/0.0.1920.1040/1920.179.1366.728@1920.179.1366.728" timestamp="1613547139990" />
+    <state width="1322" height="192" key="GridCell.Tab.1.right" timestamp="1613547139991">
+      <screen x="1920" y="179" width="1366" height="728" />
+    </state>
+    <state width="1322" height="192" key="GridCell.Tab.1.right/0.0.1920.1040/1920.179.1366.728@1920.179.1366.728" timestamp="1613547139991" />
+    <state x="2106" y="179" key="SettingsEditor" timestamp="1613648679602">
+      <screen x="1920" y="179" width="1366" height="728" />
+    </state>
+    <state x="2106" y="179" key="SettingsEditor/0.0.1920.1040/1920.179.1366.728@1920.179.1366.728" timestamp="1613648679602" />
+    <state x="2195" y="266" key="Vcs.Push.Dialog.v2" timestamp="1613648963198">
+      <screen x="1920" y="179" width="1366" height="728" />
+    </state>
+    <state x="2195" y="266" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.179.1366.728@1920.179.1366.728" timestamp="1613648963198" />
+    <state x="2295" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1613445258306">
+      <screen x="1920" y="179" width="1366" height="728" />
+    </state>
+    <state x="2295" y="369" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.179.1366.728@1920.179.1366.728" timestamp="1613445258306" />
+    <state x="2397" y="460" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1613617890411">
+      <screen x="1920" y="179" width="1366" height="728" />
+    </state>
+    <state x="2397" y="460" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.179.1366.728@1920.179.1366.728" timestamp="1613617890411" />
+    <state x="2266" y="228" width="672" height="678" key="search.everywhere.popup" timestamp="1613648658957">
+      <screen x="1920" y="179" width="1366" height="728" />
+    </state>
+    <state x="2266" y="228" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.179.1366.728@1920.179.1366.728" timestamp="1613648658957" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/willow/concurrency/result/ThreadResultGetDemo5.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/willow/concurrency/result/ThreadResultGetDemo5.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/willow/concurrency/result/ThreadResultGetDemo5.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
