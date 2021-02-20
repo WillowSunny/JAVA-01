@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d57a963f-f7de-40bb-80e6-02314b5d21da" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/willow/spring/HalfAutoConfigSpringDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/willow/spring/JavaConfigSpringDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/willow/spring/XmlConfigSpringDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/willow/spring/bean/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/willow/spring/config/AllAutoConfigTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/willow/spring/config/HalfAutoConfigTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/willow/spring/config/JavaAutoConfigTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/scanApplicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/xmlApplicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week_04/Lesson7/concurrency/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Week_04/Lesson7/concurrency/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="F:\StudyWork\JAVA-01\Week_05\Lesson9\springtest\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\repository" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.5.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ogzB5w1LDuoskQ8ZJBhCNEJGs3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.willow.spring" />
+      <recent name="com.willow.spring.config" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\StudyWork\JAVA-01\Week_05\Lesson9\springtest\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.XmlConfigSpringDemo">
+    <configuration name="HalfAutoConfigSpringDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.willow.spring.HalfAutoConfigSpringDemo" />
+      <module name="springtest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.willow.spring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaConfigSpringDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.willow.spring.JavaConfigSpringDemo" />
+      <module name="springtest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.willow.spring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XmlConfigSpringDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.willow.spring.XmlConfigSpringDemo" />
+      <module name="springtest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.willow.spring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.XmlConfigSpringDemo" />
+        <item itemvalue="Application.JavaConfigSpringDemo" />
+        <item itemvalue="Application.HalfAutoConfigSpringDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d57a963f-f7de-40bb-80e6-02314b5d21da" name="Default Changelist" comment="" />
+      <created>1613722882135</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613722882135</updated>
+      <workItem from="1613722886820" duration="10203000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1322" height="117" key="GridCell.Tab.0.bottom" timestamp="1613780676645">
+      <screen x="1920" y="179" width="1366" height="728" />
+    </state>
+    <state width="1322" height="117" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.179.1366.728@1920.179.1366.728" timestamp="1613780676645" />
+    <state width="1322" height="117" key="GridCell.Tab.0.center" timestamp="1613780676644">
+      <screen x="1920" y="179" width="1366" height="728" />
+    </state>
+    <state width="1322" height="117" key="GridCell.Tab.0.center/0.0.1920.1040/1920.179.1366.728@1920.179.1366.728" timestamp="1613780676644" />
+    <state width="1322" height="117" key="GridCell.Tab.0.left" timestamp="1613780676641">
+      <screen x="1920" y="179" width="1366" height="728" />
+    </state>
+    <state width="1322" height="117" key="GridCell.Tab.0.left/0.0.1920.1040/1920.179.1366.728@1920.179.1366.728" timestamp="1613780676641" />
+    <state width="1322" height="117" key="GridCell.Tab.0.right" timestamp="1613780676644">
+      <screen x="1920" y="179" width="1366" height="728" />
+    </state>
+    <state width="1322" height="117" key="GridCell.Tab.0.right/0.0.1920.1040/1920.179.1366.728@1920.179.1366.728" timestamp="1613780676644" />
+    <state width="1322" height="217" key="GridCell.Tab.1.bottom" timestamp="1613741684168">
+      <screen x="1920" y="179" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.179.1366.728@1920.179.1366.728" timestamp="1613741684168" />
+    <state width="1322" height="217" key="GridCell.Tab.1.center" timestamp="1613741684168">
+      <screen x="1920" y="179" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.1.center/0.0.1920.1040/1920.179.1366.728@1920.179.1366.728" timestamp="1613741684168" />
+    <state width="1322" height="217" key="GridCell.Tab.1.left" timestamp="1613741684168">
+      <screen x="1920" y="179" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.1.left/0.0.1920.1040/1920.179.1366.728@1920.179.1366.728" timestamp="1613741684168" />
+    <state width="1322" height="217" key="GridCell.Tab.1.right" timestamp="1613741684168">
+      <screen x="1920" y="179" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.1.right/0.0.1920.1040/1920.179.1366.728@1920.179.1366.728" timestamp="1613741684168" />
+    <state x="2336" y="255" key="RollbackChangesDialog" timestamp="1613780811828">
+      <screen x="1920" y="179" width="1366" height="728" />
+    </state>
+    <state x="2336" y="255" key="RollbackChangesDialog/0.0.1920.1040/1920.179.1366.728@1920.179.1366.728" timestamp="1613780811828" />
+    <state x="2083" y="179" key="SettingsEditor" timestamp="1613723017108">
+      <screen x="1920" y="179" width="1366" height="728" />
+    </state>
+    <state x="2083" y="179" key="SettingsEditor/0.0.1920.1040/1920.179.1366.728@1920.179.1366.728" timestamp="1613723017108" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/willow/spring/HalfAutoConfigSpringDemo.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
