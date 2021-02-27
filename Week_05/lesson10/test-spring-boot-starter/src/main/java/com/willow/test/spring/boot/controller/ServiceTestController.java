@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class ServiceTestController {
 
-    @Autowired
+    @Autowired(required=false)
     private ServiceConfiguration serviceConfiguration;
 
     @RequestMapping("/say")
