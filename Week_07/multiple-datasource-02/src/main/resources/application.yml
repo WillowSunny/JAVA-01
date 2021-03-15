@@ -1,0 +1,39 @@
+spring:
+  shardingsphere:
+    props:
+      # \u663E\u793A\u5177\u4F53sql\u67E5\u8BE2\u60C5\u51B5
+      sql-show: true
+    datasource:
+      names: master-ds,slave-ds
+      # \u901A\u7528\u914D\u7F6E
+      common:
+        type: com.zaxxer.hikari.HikariDataSource
+        driver-class-name: com.mysql.cj.jdbc.Driver
+        username: willow
+        password: 123456
+      # \u4E3B\u5E93\u6570\u636E\u6E90
+      master-ds:
+        jdbc-url: jdbc:mysql://localhost:3306/java1?serverTimezone=UTC&characterEncoding=utf8&useUnicode=true&useSSL=true
+      # \u4ECE\u5E93\u6570\u636E\u6E90
+      slave-ds:
+        jdbc-url: jdbc:mysql://localhost:3306/java2?serverTimezone=UTC&characterEncoding=utf8&useUnicode=true&useSSL=true
+    rules:
+      # \u8BFB\u5199\u5206\u79BB\u914D\u7F6E
+      replica-query:
+        dataSources:
+          # \u903B\u8F91\u6570\u636E\u6E90
+          pr_ds:
+            # \u6307\u5B9A\u4E3B\u5E93
+            primary-data-source-name: master-ds
+            # \u6307\u5B9A\u4ECE\u5E93
+            replica-data-source-names: slave-ds
+            # \u8D1F\u8F7D\u5747\u8861\u7B56\u7565\uFF0C\u540D\u5B57\u4E3A\u81EA\u5B9A\u4E49\uFF0C\u82E5\u4E0D\u586B\uFF0C\u5728 Spring 2.x \u4E0B\u4F1A\u62A5\u7A7A\u6307\u9488\u5F02\u5E38
+            load-balancer-name: round-robin
+        load-balancers:
+          # \u8D1F\u8F7D\u5747\u8861\u7B56\u7565\u540D
+          round-robin:
+            # \u8F6E\u8BE2\u7B56\u7565
+            type: ROUND_ROBIN
+            # \u65E0\u9700\u8BBE\u7F6E\uFF0C\u4F46\u4E3A\u907F\u514D\u7A7A\u6307\u9488\u5F02\u5E38\uFF0C\u8FDB\u884C\u4E86\u4EFB\u610F\u8BBE\u7F6E
+            props:
+              workid: 123
