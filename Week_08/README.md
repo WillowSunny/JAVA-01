@@ -311,3 +311,4 @@ spring.shardingsphere.datasource.ds1.jdbc-url=jdbc:mysql://localhost:3306/ds_1?u
 
 最后实在没办法了，找了其他同学的git上作业，拿下来后，将表信息改成自己的，发现是可以运行的，后来再对比了一下同学的和自己的配置的差异，发现差别就是上面说到数据源配置。
 
+XA项目地址：
