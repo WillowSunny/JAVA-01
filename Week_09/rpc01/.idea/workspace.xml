@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fd0a0f74-c42f-4d2a-a31b-97627d85cae2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_70.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_20_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_12_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_15_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_10_6_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jline_jline_0_9_94.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_7_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_7_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_client_4_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_framework_4_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_39.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_39.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_39.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_yetus_audience_annotations_0_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_16_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_15_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_0_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_0_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_0_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_0_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_0_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_0_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_0_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_0_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rpcfx-core/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rpcfx-core/rpcfx-core.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rpcfx-core/src/main/java/io/kimmking/rpcfx/api/Filter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rpcfx-core/src/main/java/io/kimmking/rpcfx/api/LoadBalancer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rpcfx-core/src/main/java/io/kimmking/rpcfx/api/Router.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rpcfx-core/src/main/java/io/kimmking/rpcfx/api/RpcfxRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rpcfx-core/src/main/java/io/kimmking/rpcfx/api/RpcfxResolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rpcfx-core/src/main/java/io/kimmking/rpcfx/api/RpcfxResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rpcfx-core/src/main/java/io/kimmking/rpcfx/api/ServiceProviderDesc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rpcfx-core/src/main/java/io/kimmking/rpcfx/client/Rpcfx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rpcfx-core/src/main/java/io/kimmking/rpcfx/server/RpcfxInvoker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rpcfx-core/target/classes/io/kimmking/rpcfx/api/Filter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rpcfx-core/target/classes/io/kimmking/rpcfx/api/LoadBalancer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rpcfx-core/target/classes/io/kimmking/rpcfx/api/Router.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rpcfx-core/target/classes/io/kimmking/rpcfx/api/RpcfxRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rpcfx-core/target/classes/io/kimmking/rpcfx/api/RpcfxResolver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rpcfx-core/target/classes/io/kimmking/rpcfx/api/RpcfxResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rpcfx-core/target/classes/io/kimmking/rpcfx/api/ServiceProviderDesc$ServiceProviderDescBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rpcfx-core/target/classes/io/kimmking/rpcfx/api/ServiceProviderDesc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rpcfx-core/target/classes/io/kimmking/rpcfx/client/Rpcfx$RpcfxInvocationHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rpcfx-core/target/classes/io/kimmking/rpcfx/client/Rpcfx.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rpcfx-core/target/classes/io/kimmking/rpcfx/server/RpcfxInvoker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rpcfx-demo-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rpcfx-demo-api/rpcfx-demo-api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rpcfx-demo-api/src/main/java/io/kimmking/rpcfx/demo/api/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rpcfx-demo-api/src/main/java/io/kimmking/rpcfx/demo/api/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rpcfx-demo-api/src/main/java/io/kimmking/rpcfx/demo/api/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rpcfx-demo-api/src/main/java/io/kimmking/rpcfx/demo/api/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rpcfx-demo-api/target/classes/io/kimmking/rpcfx/demo/api/Order.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rpcfx-demo-api/target/classes/io/kimmking/rpcfx/demo/api/OrderService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rpcfx-demo-api/target/classes/io/kimmking/rpcfx/demo/api/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rpcfx-demo-api/target/classes/io/kimmking/rpcfx/demo/api/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rpcfx-demo-consumer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rpcfx-demo-consumer/rpcfx-demo-consumer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rpcfx-demo-consumer/src/main/java/io/kimmking/rpcfx/demo/consumer/RpcfxClientApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rpcfx-demo-consumer/target/classes/io/kimmking/rpcfx/demo/consumer/RpcfxClientApplication$CuicuiFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rpcfx-demo-consumer/target/classes/io/kimmking/rpcfx/demo/consumer/RpcfxClientApplication$RandomLoadBalancer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rpcfx-demo-consumer/target/classes/io/kimmking/rpcfx/demo/consumer/RpcfxClientApplication$TagRouter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rpcfx-demo-consumer/target/classes/io/kimmking/rpcfx/demo/consumer/RpcfxClientApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rpcfx-demo-provider/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rpcfx-demo-provider/rpcfx-demo-provider.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rpcfx-demo-provider/src/main/java/io/kimmking/rpcfx/demo/provider/DemoResolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rpcfx-demo-provider/src/main/java/io/kimmking/rpcfx/demo/provider/OrderServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rpcfx-demo-provider/src/main/java/io/kimmking/rpcfx/demo/provider/RpcfxServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rpcfx-demo-provider/src/main/java/io/kimmking/rpcfx/demo/provider/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rpcfx-demo-provider/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rpcfx-demo-provider/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rpcfx-demo-provider/target/classes/io/kimmking/rpcfx/demo/provider/DemoResolver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rpcfx-demo-provider/target/classes/io/kimmking/rpcfx/demo/provider/OrderServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rpcfx-demo-provider/target/classes/io/kimmking/rpcfx/demo/provider/RpcfxServerApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rpcfx-demo-provider/target/classes/io/kimmking/rpcfx/demo/provider/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rpcfx.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="F:\StudyWork\JAVA-01\Week_09\rpc01\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\repository" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.5.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1rHFVwRY9YP40rZ0pHRv0M2C76L" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.RpcfxClientApplication">
+    <configuration name="RpcfxClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="rpcfx-demo-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="io.kimmking.rpcfx.demo.consumer.RpcfxClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RpcfxServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="rpcfx-demo-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="io.kimmking.rpcfx.demo.provider.RpcfxServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aef00389-0f17-463a-ad4f-57c086483ac2" name="Default Changelist" comment="" />
+      <created>1618625136007</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618625136007</updated>
+      <workItem from="1618625145318" duration="3010000" />
+      <workItem from="1618634138849" duration="26013000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="730" y="347" key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog" timestamp="1619832803244">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="730" y="347" key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog/0.0.1920.1040/-1366.224.1366.768@0.0.1920.1040" timestamp="1619832803244" />
+    <state x="715" y="221" key="#xdebugger.evaluate" timestamp="1618710274753">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="715" y="221" key="#xdebugger.evaluate/0.0.1920.1040/-1366.201.1366.728@0.0.1920.1040" timestamp="1618710274753" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1618712770177">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040/-1366.201.1366.728@0.0.1920.1040" timestamp="1618712770177" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1618716215773">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/-1366.201.1366.728@0.0.1920.1040" timestamp="1618716215773" />
+    <state width="1876" height="299" key="GridCell.Tab.0.bottom" timestamp="1619838757821">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="342" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1366.201.1366.728@0.0.1920.1040" timestamp="1618716515022" />
+    <state width="1876" height="299" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1366.224.1366.768@0.0.1920.1040" timestamp="1619838757821" />
+    <state width="1876" height="299" key="GridCell.Tab.0.center" timestamp="1619838757820">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="342" key="GridCell.Tab.0.center/0.0.1920.1040/-1366.201.1366.728@0.0.1920.1040" timestamp="1618716515022" />
+    <state width="1876" height="299" key="GridCell.Tab.0.center/0.0.1920.1040/-1366.224.1366.768@0.0.1920.1040" timestamp="1619838757820" />
+    <state width="1876" height="299" key="GridCell.Tab.0.left" timestamp="1619838757820">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="342" key="GridCell.Tab.0.left/0.0.1920.1040/-1366.201.1366.728@0.0.1920.1040" timestamp="1618716515022" />
+    <state width="1876" height="299" key="GridCell.Tab.0.left/0.0.1920.1040/-1366.224.1366.768@0.0.1920.1040" timestamp="1619838757820" />
+    <state width="1876" height="299" key="GridCell.Tab.0.right" timestamp="1619838757820">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="342" key="GridCell.Tab.0.right/0.0.1920.1040/-1366.201.1366.728@0.0.1920.1040" timestamp="1618716515022" />
+    <state width="1876" height="299" key="GridCell.Tab.0.right/0.0.1920.1040/-1366.224.1366.768@0.0.1920.1040" timestamp="1619838757820" />
+    <state width="1876" height="299" key="GridCell.Tab.1.bottom" timestamp="1619838757821">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="342" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1366.201.1366.728@0.0.1920.1040" timestamp="1618716515023" />
+    <state width="1876" height="299" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1366.224.1366.768@0.0.1920.1040" timestamp="1619838757821" />
+    <state width="1876" height="299" key="GridCell.Tab.1.center" timestamp="1619838757821">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="342" key="GridCell.Tab.1.center/0.0.1920.1040/-1366.201.1366.728@0.0.1920.1040" timestamp="1618716515022" />
+    <state width="1876" height="299" key="GridCell.Tab.1.center/0.0.1920.1040/-1366.224.1366.768@0.0.1920.1040" timestamp="1619838757821" />
+    <state width="1876" height="299" key="GridCell.Tab.1.left" timestamp="1619838757821">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="342" key="GridCell.Tab.1.left/0.0.1920.1040/-1366.201.1366.728@0.0.1920.1040" timestamp="1618716515022" />
+    <state width="1876" height="299" key="GridCell.Tab.1.left/0.0.1920.1040/-1366.224.1366.768@0.0.1920.1040" timestamp="1619838757821" />
+    <state width="1876" height="299" key="GridCell.Tab.1.right" timestamp="1619838757821">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="342" key="GridCell.Tab.1.right/0.0.1920.1040/-1366.201.1366.728@0.0.1920.1040" timestamp="1618716515023" />
+    <state width="1876" height="299" key="GridCell.Tab.1.right/0.0.1920.1040/-1366.224.1366.768@0.0.1920.1040" timestamp="1619838757821" />
+    <state width="1876" height="299" key="GridCell.Tab.2.bottom" timestamp="1619838757822">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="342" key="GridCell.Tab.2.bottom/0.0.1920.1040/-1366.201.1366.728@0.0.1920.1040" timestamp="1618716515023" />
+    <state width="1876" height="299" key="GridCell.Tab.2.bottom/0.0.1920.1040/-1366.224.1366.768@0.0.1920.1040" timestamp="1619838757822" />
+    <state width="1876" height="299" key="GridCell.Tab.2.center" timestamp="1619838757822">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="342" key="GridCell.Tab.2.center/0.0.1920.1040/-1366.201.1366.728@0.0.1920.1040" timestamp="1618716515023" />
+    <state width="1876" height="299" key="GridCell.Tab.2.center/0.0.1920.1040/-1366.224.1366.768@0.0.1920.1040" timestamp="1619838757822" />
+    <state width="1876" height="299" key="GridCell.Tab.2.left" timestamp="1619838757822">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="342" key="GridCell.Tab.2.left/0.0.1920.1040/-1366.201.1366.728@0.0.1920.1040" timestamp="1618716515023" />
+    <state width="1876" height="299" key="GridCell.Tab.2.left/0.0.1920.1040/-1366.224.1366.768@0.0.1920.1040" timestamp="1619838757822" />
+    <state width="1876" height="299" key="GridCell.Tab.2.right" timestamp="1619838757822">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="342" key="GridCell.Tab.2.right/0.0.1920.1040/-1366.201.1366.728@0.0.1920.1040" timestamp="1618716515023" />
+    <state width="1876" height="299" key="GridCell.Tab.2.right/0.0.1920.1040/-1366.224.1366.768@0.0.1920.1040" timestamp="1619838757822" />
+    <state x="603" y="229" key="RollbackChangesDialog" timestamp="1618712757425">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="603" y="229" key="RollbackChangesDialog/0.0.1920.1040/-1366.201.1366.728@0.0.1920.1040" timestamp="1618712757425" />
+    <state x="461" y="151" key="SettingsEditor" timestamp="1618634045495">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="151" key="SettingsEditor/0.0.1920.1040/-1366.201.1366.728@0.0.1920.1040" timestamp="1618634045495" />
+    <state x="640" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1618635657220">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="342" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1366.201.1366.728@0.0.1920.1040" timestamp="1618635657220" />
+    <state x="752" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1618661334493">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="752" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/-1366.201.1366.728@0.0.1920.1040" timestamp="1618661334493" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1618684698847">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1366.201.1366.728@0.0.1920.1040" timestamp="1618684698847" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/rpcfx-demo-provider/src/main/java/io/kimmking/rpcfx/demo/provider/RpcfxServerApplication.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/rpcfx-demo-consumer/src/main/java/io/kimmking/rpcfx/demo/consumer/RpcfxClientApplication.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/rpcfx-demo-consumer/src/main/java/io/kimmking/rpcfx/demo/consumer/RpcfxClientApplication.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/rpcfx-core/src/main/java/io/kimmking/rpcfx/server/RpcfxInvoker.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/rpcfx-core/src/main/java/io/kimmking/rpcfx/server/RpcfxInvoker.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/rpcfx-core/src/main/java/io/kimmking/rpcfx/client/Rpcfx.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/rpcfx-demo-consumer/src/main/java/io/kimmking/rpcfx/demo/consumer/RpcfxClientApplication.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
